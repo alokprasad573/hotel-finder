@@ -1,6 +1,6 @@
 # Hotel Finder Application
 
-A full-stack web application for finding and managing hotel listings with user authentication and reviews.
+A functional backend replica of Airbnb, built with the MERN stack, featuring user authentication, property listings, reviews, and interactive map integration.
 
 ## Features
 
